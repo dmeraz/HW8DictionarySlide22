@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW8DictionarySlide22\HW8DictionarySlide22\bin\Debug\HW8DictionarySlide22.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW8DictionarySlide22\HW8DictionarySlide22\bin\Debug\HW8DictionarySlide22.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW8DictionarySlide22\HW8DictionarySlide22\bin\Debug\HW8DictionarySlide22.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW8DictionarySlide22\HW8DictionarySlide22\obj\Debug\HW8DictionarySlide22.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW8DictionarySlide22\HW8DictionarySlide22\obj\Debug\HW8DictionarySlide22.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW8DictionarySlide22\HW8DictionarySlide22\obj\Debug\HW8DictionarySlide22.pdb
